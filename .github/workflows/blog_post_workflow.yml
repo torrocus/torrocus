@@ -1,0 +1,25 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '8 8 8 * *' # Runs every at 08:08 on day-of-month 8
+  workflow_dispatch:
+
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          commit_message: "Update README with the latest blog posts"
+          committer_email: torrocus@users.noreply.github.com
+          committer_username: Alex Malaszkiewicz
+          feed_list: "https://torrocus.com/blog/feed.xml"
+          max_post_count: 5
+          skip_commit: false
