@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm a seasoned full-stack developer with over a dozen years of experience,
-specializing in Ruby on Rails.
+specializing in **Ruby on Rails**.
 Currently, I'm actively seeking new and exciting projects. 🕵
 Don't hesitate to reach out.
 
