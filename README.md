@@ -22,7 +22,7 @@ Let's build something great together!
 - 🚀 Started my coding journey in 1998, exploring various technologies and languages.
 - 🚂 Jumped into the world of Ruby on Rails back in 2011 - over a decade of expertise.
 - 🌱 In my free time, I invest and renovate my apartment.
-- 🖊 Write a programming blog covering Ruby and more.
+- 🖊 Write a [programming blog](https://torrocus.com/blog/) covering Ruby and more.
 - 👩‍💻 Automation enthusiast with a focus on algorithms and performance.
 - 🎯 Open to **performance & security consulting** opportunities.
 - 🎤️ Speaker at various Ruby events.
