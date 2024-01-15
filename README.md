@@ -1,9 +1,15 @@
-# Hi there! 👋
+# Experienced Full-Stack Developer | Performance & Security Consultant
+
+Hi there! 👋
 
 I'm a seasoned full-stack developer with over a dozen years of experience,
-specializing in **Ruby on Rails**.
+specializing in **Ruby** and full-stack web development.
+My expertise extends beyond Ruby on Rails,
+encompassing various Ruby frameworks and applications.
 Currently, I'm actively seeking new and exciting projects. 🕵
 Don't hesitate to reach out.
+
+Let's build something great together!
 
 ## TL;DR
 
@@ -34,7 +40,7 @@ Don't hesitate to reach out.
 ### Tips for Recruiters
 
 - 💎 Interested in Ruby and Rails.
-- 🌎 Remote work only as a B2B contractor.
+- 🌎 Remote work only as a B2B contractor or consultant.
 - 💸 Please include salary ranges in job offers.
 
 ## Blog posts
