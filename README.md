@@ -1,11 +1,14 @@
-# Experienced Full-Stack Developer | Performance & Security Consultant
+# Ruby Performance & Security Consultant
 
 Hi there! 👋
 
-I'm a seasoned full-stack developer with over a dozen years of experience,
-specializing in **Ruby** and full-stack web development.
-My expertise extends beyond Ruby on Rails,
-encompassing various Ruby frameworks and applications.
+I'm a seasoned web app developer with over a dozen years of experience,
+specializing in **Ruby**.
+My expertise extends beyond Ruby on Rails, encompassing various Ruby frameworks.
+I prioritize high-quality code and solid tests to ensure optimal user experiences.
+I automate processes for continuous integration, minimizing human errors.
+In every project, I focus on performance. security, and future scalability.
+
 Currently, I'm actively seeking new and exciting projects. 🕵
 Don't hesitate to reach out.
 
