@@ -10,12 +10,25 @@ Don't hesitate to reach out.
 ### About Me 🙋
 
 - 💻 Experienced full-stack developer deeply involved in Ruby.
-- 🚀 Started my coding journey with Ruby on Rails in 2011 - over a decade of expertise.
+- 🚀 Started my coding journey in 1998, exploring various technologies and languages.
+- 🚂 Jumped into the world of Ruby on Rails back in 2011 - over a decade of expertise.
 - 🌱 In my free time, I invest and renovate my apartment.
 - 🖊 Write a programming blog covering Ruby and more.
 - 👩‍💻 Automation enthusiast with a focus on algorithms and performance.
 - 🎤️ Speaker at various Ruby events.
 - 💬 Connect with me on [LinkedIn](https://linkedin.com/in/torrocus).
+
+### Key Technologies 🛠️
+
+- 💎 **Ruby** - a programming language I love for its simplicity and readability.
+- 🛤️ **Ruby on Rails** - allows me to build MVPs quickly and efficiently.
+- 🐘 **PostgreSQL** - a database with powerful extensions, high performance,
+  and scalability.
+- 🤖 **GitHub Actions** - great tools to automate CI workflows.
+- 🐳 **Docker** - simplifies development and deployment through containerization.
+- 🌐 **JavaScript** - a fundamental to modern web development,
+  shaping the interactive nature of apps.
+- 🐹 **Go (Golang)** - expanding my skill set with this programming language.
 
 ### Tips for Recruiters
 
