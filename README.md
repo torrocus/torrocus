@@ -24,6 +24,8 @@ Let's build something great together!
 - 🌱 In my free time, I invest and renovate my apartment.
 - 🖊 Author of a [programming blog](https://torrocus.com/blog/)
   covering Ruby and more.
+- 📖 Reader of other technical blogs,
+  including the [Woman on Rails blog](https://womanonrails.com/).
 - 👩‍💻 Automation enthusiast with a focus on algorithms and performance.
 - 🎯 Open to **performance & security consulting** opportunities.
 - 🎤️ Speaker at various Ruby events.
