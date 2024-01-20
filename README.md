@@ -4,7 +4,7 @@ Hi there! 👋
 
 I'm a seasoned web app developer with over a dozen years of experience,
 specializing in **Ruby**.
-My expertise extends beyond Ruby on Rails, encompassing various Ruby frameworks.
+My expertise extends beyond **Ruby on Rails**, encompassing various Ruby frameworks.
 I prioritize high-quality code and solid tests to ensure optimal user experiences.
 I automate processes for continuous integration, minimizing human errors.
 In every project, I focus on performance. security, and future scalability.
