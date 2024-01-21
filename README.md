@@ -30,6 +30,7 @@ Let's build something great together!
 - 🎯 Open to **performance & security consulting** opportunities.
 - 🎤️ Speaker at various Ruby events.
 - 💬 Connect with me on [LinkedIn](https://linkedin.com/in/torrocus).
+- ❓ Ask me anything on [GitHub Issue](https://github.com/torrocus/torrocus/issues/new).
 
 ### Key Technologies 🛠️
 
