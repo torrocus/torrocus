@@ -32,6 +32,23 @@ Let's build something great together!
 - 💬 Connect with me on [LinkedIn](https://linkedin.com/in/torrocus).
 - ❓ Ask me anything on [GitHub Issue](https://github.com/torrocus/torrocus/issues/new).
 
+### Coding Philosophy 📜
+
+1. I **analyze** the problem and break it down. I split larger problems
+   into smaller sub-problems, sometimes even atomic steps.
+2. I **plan** and act in iterations. I adhere to the principle
+   that 10 minutes of planning saves an hour of work.
+3. I prioritize **communication**. I emphasize code readability
+   as a key element of team communication.
+4. I write **tests**. Testing is my foundation to ensure correctness
+   and high quality.
+5. I **automate** processes. I am human and make mistakes, and to avoid them,
+   I rely on automation.
+6. I standardize code. I use **linters** and shared formatting standards
+   to unify team work.
+7. I avoid commenting, remove unnecessary code. **Less code** is easier
+   to maintain, and code that doesn't exist contains no bugs.
+
 ### Key Technologies 🛠️
 
 - 💎 **Ruby** - a programming language I love for its simplicity and readability.
