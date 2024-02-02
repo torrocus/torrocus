@@ -67,6 +67,10 @@ Let's build something great together!
 - 🌎 Remote work only as a B2B contractor or consultant.
 - 💸 Please include salary ranges in job offers.
 
+### Support Me 💰
+
+You like me or you like what I do - [buy me a coffee](https://www.buymeacoffee.com/torrocus).
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Can we use frozen_string_literal in Haml? WTF?](https://torrocus.com/blog/haml-with-frozen-string-literal-wtf/)
