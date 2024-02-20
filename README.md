@@ -73,9 +73,9 @@ You like me or you like what I do - [buy me a beer](https://www.buymeacoffee.com
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Extracting text from PDF files in the console](https://torrocus.com/blog/converting-pdf-to-text-in-console/)
 - [XRechnung Validation with GitHub Actions](https://torrocus.com/blog/xrechnung-validator-with-github-actions/)
 - [Can we use frozen_string_literal in Haml? WTF?](https://torrocus.com/blog/haml-with-frozen-string-literal-wtf/)
 - [Algebraic refactoring - case study](https://torrocus.com/blog/algebraic-refactoring-case-study/)
 - [What to pay attention to your docker will have space?](https://torrocus.com/blog/how-to-take-care-of-space-for-docker-in-ubuntu/)
-- [Different ways to get ElasticSearch server version](https://torrocus.com/blog/how-to-get-elasticsearch-server-version/)
 <!-- BLOG-POST-LIST:END -->
