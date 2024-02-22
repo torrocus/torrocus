@@ -69,7 +69,8 @@ Let's build something great together!
 
 ### Support Me 💰
 
-You like me or you like what I do - [buy me a beer](https://www.buymeacoffee.com/torrocus). 🍺
+You like me or you like what I do -
+[buy me a beer](https://www.buymeacoffee.com/torrocus). 🍺
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
