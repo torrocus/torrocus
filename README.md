@@ -19,7 +19,7 @@ Let's build something great together!
 ### About Me 🙋
 
 - 💻 Experienced **full-stack developer** deeply involved in Ruby.
-- 🚀 Started my coding journey in 1998, exploring various technologies and languages.
+- 🚀 Started my web coding journey in 1998, exploring various technologies and languages.
 - 🚂 Jumped into the world of Ruby on Rails back in 2011 - over a decade of expertise.
 - 🌱 In my free time, I invest and renovate my apartment.
 - 🖊 Author of a [programming blog](https://torrocus.com/blog/)
