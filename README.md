@@ -7,7 +7,7 @@ specializing in **Ruby**.
 My expertise extends beyond **Ruby on Rails**, encompassing various Ruby frameworks.
 I prioritize high-quality code and solid tests to ensure optimal user experiences.
 I automate processes for continuous integration, minimizing human errors.
-In every project, I focus on performance. security, and future scalability.
+In every project, I focus on performance. security, and scalability.
 
 Currently, I'm actively seeking new and exciting projects. 🕵
 Don't hesitate to reach out.
