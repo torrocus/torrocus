@@ -74,9 +74,9 @@ You like me or you like what I do -
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to KSeF](https://torrocus.com/blog/introduction-to-ksef/)
 - [Extracting text from PDF files in the console](https://torrocus.com/blog/converting-pdf-to-text-in-console/)
 - [XRechnung Validation with GitHub Actions](https://torrocus.com/blog/xrechnung-validator-with-github-actions/)
 - [Can we use frozen_string_literal in Haml? WTF?](https://torrocus.com/blog/haml-with-frozen-string-literal-wtf/)
 - [Algebraic refactoring - case study](https://torrocus.com/blog/algebraic-refactoring-case-study/)
-- [What to pay attention to your docker will have space?](https://torrocus.com/blog/how-to-take-care-of-space-for-docker-in-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
